@@ -39,24 +39,25 @@
     color: #cccccc;
     font-size: 0.85rem;
 }
+
 .add-second{
     font-size: 1rem;
     margin-left: 3px;
 }
+
 .add-icon{
     display: flex;
     align-items: center;
 }
+
 .nav-search{
     display: flex;
     justify-content: space-evenly;
     width: 620px;
     height: 40px;
     border-radius: 5px;
-    
-    
-
 }
+
 .nav-search:hover{
     border: 2px solid orange;
 
