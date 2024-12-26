@@ -27,6 +27,7 @@
     width: 100%;
     /* mix-blend-mode: color-dodge; */
 }
+
 .border {
     border:1px solid transparent;
 }
@@ -60,7 +61,6 @@
 
 .nav-search:hover{
     border: 2px solid orange;
-
 }
 
 .search-select{
@@ -74,10 +74,9 @@
 
 .search-input{
     width: 100%;
-    font-size: 1rem;
-    
-    
+    font-size: 1rem;    
 }
+
 .search-icon{
     width: 45px;
     display: flex;
