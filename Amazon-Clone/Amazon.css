@@ -11,13 +11,11 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-
 }
 
 .nav-logo{
     height: 50px;
     width: 100px;
-
 }
 
 .logodiv{
@@ -109,7 +107,6 @@ span{
 .nav-cart{
     font-size: 0.85;
     font-weight: 700;
-
 }
 
 /* 2nd div */
@@ -123,10 +120,10 @@ span{
     justify-content: space-evenly;
     
 }
+
 .panel-ops p{
     display: inline;
     margin: 15px;
-
 }
 
 .panel-ops{
@@ -137,14 +134,14 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+
 .hero-section{
     background-image: url("Photos/amazonintro.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
-    
+    align-items: flex-end;    
 }
 
 .hero-msg{
