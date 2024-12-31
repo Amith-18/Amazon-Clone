@@ -116,8 +116,7 @@ span{
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
-    
+    justify-content: space-evenly;   
 }
 
 .panel-ops p{
